@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+}
+
+body {
+  margin: 0;
+  background: #061326;
+  color: #f8fafc;
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: #00d9c5;
+  color: #061326;
+}
+
+.glow {
+  box-shadow: 0 0 25px #00d9c530;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #00d9c5, #818cf8);
+  -webkit-backgroundclip: text;
+  color: transparent;
+}
