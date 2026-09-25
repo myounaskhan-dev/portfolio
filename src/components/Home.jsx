@@ -7,6 +7,7 @@ import {
 } from "lucide-react";
 
 
+
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 const stats = [
   { icon: Folder, number: "4+", label: "Projects" },
