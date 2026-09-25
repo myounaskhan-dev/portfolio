@@ -103,7 +103,7 @@ export default function Home() {
           border border-cyan-500/40 bg-gradient-tobr
           from-cyan-500/20 to-indigo-600/20 p-3 glow">
           <img
-            src="https://media.licdn.com/dms/image/v2/D4D03AQET2hLowAn-XQ/profile-displayphoto-scale_400_400/B4DaBmV_lnHsAg-/0/1788423438172?e=1791417600&v=beta&t=5HiCjqMenZwIiuozgyHarAGFySjEURgdMEnb81EMdBY"
+            src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006588820b9248d26c03c2d6b4&ts=497313&p=fs&cid=1&sig=31d697d02572831bbfa69c0c5aa02fa7f42dcfeb45b46b14d46e5ca4007a7c21&v=0"
             alt="Myounas Khan"
             className="h[420px] w-full rounded-2xl
               object-cover object-top"
