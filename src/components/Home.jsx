@@ -5,6 +5,7 @@ import {
   ArrowRight,
   Mail,
 } from "lucide-react";
+import profile from "../assets/profile.png"
 
 
 
@@ -104,7 +105,7 @@ export default function Home() {
           border border-cyan-500/40 bg-gradient-tobr
           from-cyan-500/20 to-indigo-600/20 p-3 glow">
           <img
-            src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000282c81fa80ebfa8fe51506ab&ts=497315&p=fs&cid=1&sig=47d2aad05de2741a20224d418b1aab18dadb64ad90b3f667a9933287f1f724d6&v=0"
+            src={profile}
             alt="Myounas Khan"
             className="h[420px] w-full rounded-2xl
               object-cover object-top"
